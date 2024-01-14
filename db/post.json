@@ -1,0 +1,18 @@
+[
+    {
+        "ID": 1,
+        "UserID": 2,
+        "Title": "nimagap",
+        "Content": "bachkana",
+        "Likes": 1000,
+        "Comment": null
+    },
+    {
+        "ID": 2,
+        "UserID": 1,
+        "Title": "eski",
+        "Content": "ezma",
+        "Likes": 999,
+        "Comment": null
+    }
+]
