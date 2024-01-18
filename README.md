@@ -1,0 +1,1 @@
+kalbosh nima qilyapsan
